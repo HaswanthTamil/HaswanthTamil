@@ -7,8 +7,8 @@ Languages: HTML, CSS, JavaScript, Python
 Frameworks: React, Node.js
 Tools: Git, GitHub, VS Code
 
-📂 My Projects
+📂 My Projects:
 not yet
 
-📬 Contact Me
+📬 Contact Me:
 Email: haswanthtamilofficial@gmail.com
