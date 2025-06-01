@@ -4,11 +4,11 @@ I'm a Freelance Web Developer passionate about creating beautiful, responsive we
 
 🛠️ Skills
 Languages: HTML, CSS, JavaScript, Python
-Frameworks: React, Node.js
-Tools: Git, GitHub, VS Code
+Frameworks: React, Next.js
+Tools: Git, GitHub, VS Code, Postman, Vercel, Figma
 
 📂 My Projects:
-not yet
+Portfolio: http://haswanthdev.vercel.app
 
 📬 Contact Me:
 Email: haswanthtamilofficial@gmail.com
