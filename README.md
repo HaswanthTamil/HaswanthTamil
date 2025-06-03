@@ -11,7 +11,7 @@ Tools: Git, GitHub, VS Code, Postman, Vercel, Figma
 Portfolio: http://haswanthdev.vercel.app
 
 📜 My Resume:
-https://github.com/HaswanthTamil/Resume/Haswanth-Resume.docx
+https://github.com/HaswanthTamil/Resume
 
 📬 Contact Me:
 Email: haswanthtamilofficial@gmail.com
